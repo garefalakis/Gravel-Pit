@@ -77,7 +77,7 @@ def bootstrap_CI(grainsize_full, percentile, iterations):
         ### Generate resamples of the data of n-length, and for iterations-times
         ### (so i.e. the data is 200 times resampled (i.e. n) and then repeated for 10000 times (i.e. iterations))
         ni = len(data[count])
-        resample = np.random.choice(data[count], (iterations, n), replace=True)
+        resample = np.random.choice(data[count], (iterations, ni), replace=True)
         perc_res = np.percentile(resample, perc, axis = 1)
         
         # perc_res.sort()
