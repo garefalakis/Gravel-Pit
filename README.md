@@ -5,8 +5,7 @@ This github repository acts as a data- and python-files-cloud of the correspondi
 ### Comparison of three grain size measuring methods applied to coarse-grained gravel deposits ###
 by
 Philippos Garefalakis, Ariel Henrique do Prado, David Mair, Guilhem Amin Douillet, Franziska Nyffenegger and Fritz Schlunegger
-published in
-Sedimentary Geology
+published in February 2023 in Sedimentary Geology
 
 https://www.sciencedirect.com/science/article/pii/S003707382300012X
 
